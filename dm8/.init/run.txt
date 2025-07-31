@@ -1,0 +1,8 @@
+1
+n
+y
+21
+2
+/opt/dmdbms
+y
+y
